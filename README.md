@@ -29,6 +29,6 @@ Po poprawnej instalacji aplikację uruchamiamy komendą `npm run start:dev`
 - Token <br/>
    Wszystkie adresy aplikacji zabezpieczone są tokenem, aby wygenerować token do testów wpisz `npm run genToken`
 
-### 3. Wersja Produkcyjna
+### 4. Wersja Produkcyjna
 
 W celu skompilowania aplikacji do wersji produkcyjnej należy uruchomić komendę `npm run build`. Wszystkie niezbędne pliki do działania będą znajdować się w folderze dist.
