@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "619ebb8f39bfe062e7c82530"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.080104,
+    "longitude": 19.893667
+  },
+  "sender": "619eaa5ad7eee66e901d11d6",
+  "receiver": "619eaeabd7eee66e901d11fb",
+  "sendDate": "Tue Sep 14 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "0AK6FEpXKH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ebc0339bfe062e7c82544"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.104442,
+    "longitude": 19.912734
+  },
+  "sender": "619eac89d7eee66e901d11ea",
+  "receiver": "619ead73d7eee66e901d11f1",
+  "sendDate": "Tue Sep 14 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "5o6yLonFtZ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec36b39bfe062e7c82550"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.055973,
+    "longitude": 19.921838
+  },
+  "sender": "619eab5dd7eee66e901d11e2",
+  "receiver": "619eaeabd7eee66e901d11fb",
+  "sendDate": "2021-09-15",
+  "packageNumber": "D2aagFQtpY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec3bc39bfe062e7c8255b"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.079663,
+    "longitude": 19.902428
+  },
+  "sender": "619eb08cd7eee66e901d1203",
+  "receiver": "619eab5dd7eee66e901d11e2",
+  "sendDate": "Tue Sep 21 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "I18ALF775W",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec3ed39bfe062e7c82568"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.06534,
+    "longitude": 19.912731
+  },
+  "sender": "619eb047d7eee66e901d1200",
+  "receiver": "619eaa5ad7eee66e901d11d6",
+  "sendDate": "2021-09-15",
+  "packageNumber": "Ij7gGCFH23",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec41939bfe062e7c82577"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.056002,
+    "longitude": 19.855122
+  },
+  "sender": "619eabd3d7eee66e901d11e5",
+  "receiver": "619ead73d7eee66e901d11f1",
+  "sendDate": "2021-09-01",
+  "packageNumber": "JsAInUyZ7x",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec44739bfe062e7c82588"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.086492,
+    "longitude": 19.890747
+  },
+  "sender": "619eaaaed7eee66e901d11dd",
+  "receiver": "619eaeabd7eee66e901d11fb",
+  "sendDate": "Tue Sep 21 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "SciYFBpksc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec46b39bfe062e7c8259b"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.060822,
+    "longitude": 19.911704
+  },
+  "sender": "619eab5dd7eee66e901d11e2",
+  "receiver": "619eb08cd7eee66e901d1203",
+  "sendDate": "2021-09-21",
+  "packageNumber": "T1mM2sE0ld",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec49939bfe062e7c825b0"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.070629,
+    "longitude": 19.922007
+  },
+  "sender": "619eb08cd7eee66e901d1203",
+  "receiver": "619eab5dd7eee66e901d11e2",
+  "sendDate": "Mon Sep 20 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "TFku1lvtyw",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec4ca39bfe062e7c825c7"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.086492,
+    "longitude": 19.891777
+  },
+  "sender": "619eadb9d7eee66e901d11f4",
+  "receiver": "619eabd3d7eee66e901d11e5",
+  "sendDate": "Tue Aug 31 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "U7wWA5jrUF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec4fb39bfe062e7c825e0"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.021603,
+    "longitude": 19.890164
+  },
+  "sender": "619eac89d7eee66e901d11ea",
+  "receiver": "619eaaaed7eee66e901d11dd",
+  "sendDate": "2021-09-05",
+  "packageNumber": "VdnpRAfs7V",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec52439bfe062e7c825fb"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.067874,
+    "longitude": 19.920805
+  },
+  "sender": "619eaeabd7eee66e901d11fb",
+  "receiver": "619eaaaed7eee66e901d11dd",
+  "sendDate": "Fri Sep 03 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "XLWFailc9W",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec54f39bfe062e7c82618"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.048066,
+    "longitude": 19.828325
+  },
+  "sender": "619eb08cd7eee66e901d1203",
+  "receiver": "619eab5dd7eee66e901d11e2",
+  "sendDate": "2021-09-11",
+  "packageNumber": "ZjtDCOaF1K",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec57c39bfe062e7c82637"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.104332,
+    "longitude": 19.918403
+  },
+  "sender": "619eabd3d7eee66e901d11e5",
+  "receiver": "619eadb9d7eee66e901d11f4",
+  "sendDate": "Wed Sep 15 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "ZuV6CZpS2o",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec59f39bfe062e7c82658"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.089576,
+    "longitude": 19.902943
+  },
+  "sender": "619eab5dd7eee66e901d11e2",
+  "receiver": "619eb08cd7eee66e901d1203",
+  "sendDate": "Tue Sep 14 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "bGuKRExy0n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec5c239bfe062e7c8267b"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.095633,
+    "longitude": 19.891949
+  },
+  "sender": "619ead73d7eee66e901d11f1",
+  "receiver": "619eac89d7eee66e901d11ea",
+  "sendDate": "Thu Sep 09 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "fu3GuFnQlN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec5e739bfe062e7c826a0"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.051153,
+    "longitude": 19.875048
+  },
+  "sender": "619eaa5ad7eee66e901d11d6",
+  "receiver": "619eac89d7eee66e901d11ea",
+  "sendDate": "2021-09-09",
+  "packageNumber": "oSxlJv4DHr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec61239bfe062e7c826c7"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.083849,
+    "longitude": 19.882673
+  },
+  "sender": "619ead73d7eee66e901d11f1",
+  "receiver": "619eac89d7eee66e901d11ea",
+  "sendDate": "Fri Sep 17 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "sN3qDLEaZE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec63939bfe062e7c826f0"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.087153,
+    "longitude": 19.90655
+  },
+  "sender": "619eaa5ad7eee66e901d11d6",
+  "receiver": "619eb047d7eee66e901d1200",
+  "sendDate": "Tue Sep 21 2021 02:00:00 GMT+0200 (czas środkowoeuropejski letni)",
+  "packageNumber": "wKI8M13fwB",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ec65e39bfe062e7c8271b"
+  },
+  "status": "Oczekująca",
+  "comments": "",
+  "position": {
+    "latitude": 50.032631,
+    "longitude": 19.869551
+  },
+  "sender": "619eaaaed7eee66e901d11dd",
+  "receiver": "619eadb9d7eee66e901d11f4",
+  "sendDate": "2021-09-14",
+  "packageNumber": "xAQeoPNBR7",
+  "__v": 0
+}]

@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "619eaa5ad7eee66e901d11d6"
+  },
+  "city": "Kraków",
+  "postCode": "31-436",
+  "street": "ul. Sokołowskiego Andrzeja 80",
+  "lastName": "Sobczak",
+  "firstName": "Ludmiła",
+  "password": "Start123",
+  "phoneNumber": 6676747082,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eaaaed7eee66e901d11dd"
+  },
+  "city": "Kraków",
+  "postCode": "31-026",
+  "street": "ul. Radziwiłłowska 58",
+  "lastName": "Kaczmarek",
+  "firstName": "Seweryn",
+  "password": "Start123",
+  "phoneNumber": 7823348851,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eab5dd7eee66e901d11e2"
+  },
+  "city": "Kraków",
+  "postCode": "31-999",
+  "street": "ul. Skoczylasa Władysława 121",
+  "lastName": "Kamińska",
+  "firstName": "Anka",
+  "password": "Start123",
+  "phoneNumber": 5312690843,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eabd3d7eee66e901d11e5"
+  },
+  "city": "Kraków",
+  "postCode": "30-012",
+  "street": "ul. Poznańska 106",
+  "lastName": "Szczepański",
+  "firstName": "Julek",
+  "password": "Start123",
+  "phoneNumber": 6760828132,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eac89d7eee66e901d11ea"
+  },
+  "city": "Kraków",
+  "postCode": "30-398",
+  "street": "ul. Janasówka 139",
+  "lastName": "Gorski",
+  "firstName": "Aureliusz",
+  "password": "Start123",
+  "phoneNumber": 5355145087,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619ead73d7eee66e901d11f1"
+  },
+  "city": "Kraków",
+  "postCode": "31-764",
+  "street": "ul. Studzienna 175",
+  "lastName": "Olszewska",
+  "firstName": "Ludwika",
+  "password": "Start123",
+  "phoneNumber": 5135438893,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eadb9d7eee66e901d11f4"
+  },
+  "city": "Kraków",
+  "postCode": "30-701",
+  "street": "ul. Ślusarska 30",
+  "lastName": "Kowalczyk",
+  "firstName": "Anastazja",
+  "password": "Start123",
+  "phoneNumber": 7280916981,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eaeabd7eee66e901d11fb"
+  },
+  "city": "Kraków",
+  "postCode": "31-752",
+  "street": "Al. Solidarności 157",
+  "lastName": "Pawlak",
+  "firstName": "Szczepan",
+  "password": "Start123",
+  "phoneNumber": 6913401365,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eb047d7eee66e901d1200"
+  },
+  "city": "Kraków",
+  "postCode": "31-236",
+  "street": "ul. Abp Felińskiego Zygmunta Szczęsnego 61",
+  "lastName": "Gorska",
+  "firstName": "Genowefa",
+  "password": "Start123",
+  "phoneNumber": 6989959244,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eb08cd7eee66e901d1203"
+  },
+  "city": "Kraków",
+  "postCode": "31-980",
+  "street": "ul. Opata Salwińskiego 143",
+  "lastName": "Borkowska",
+  "firstName": "Jarosława",
+  "password": "Start123",
+  "phoneNumber": 8861360254,
+  "__v": 0
+}]

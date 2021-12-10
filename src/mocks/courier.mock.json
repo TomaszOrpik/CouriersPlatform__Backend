@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "619eb1ced7eee66e901d120f"
+  },
+  "currentPackages": "619ec4ca39bfe062e7c825c7",
+  "undeliveredPackages": [
+    "619ec52439bfe062e7c825fb",
+    "619ec5c239bfe062e7c8267b",
+    "619ebb8f39bfe062e7c82530",
+    "619ebc0339bfe062e7c82544",
+    "619ec59f39bfe062e7c82658",
+    "619ec57c39bfe062e7c82637",
+    "619ec61239bfe062e7c826c7",
+    "619ec49939bfe062e7c825b0",
+    "619ec3bc39bfe062e7c8255b",
+    "619ec44739bfe062e7c82588",
+    "619ec63939bfe062e7c826f0"
+  ],
+  "deliveredPackages": [],
+  "region": {
+    "name": "Krakow1",
+    "leftTop": {
+      "latitude": 50.101389,
+      "longitude": 19.832472
+    },
+    "leftBottom": {
+      "latitude": 50.067022,
+      "longitude": 19.824887
+    },
+    "rightTop": {
+      "latitude": 50.11416,
+      "longitude": 19.938946
+    },
+    "rightBottom": {
+      "latitude": 50.068785,
+      "longitude": 19.932762
+    }
+  },
+  "startTime": "8:24",
+  "registration": "BHA2548",
+  "vehicle": "Ford Transit",
+  "startPosition": {
+    "latitude": 50.082005,
+    "longitude": 19.88
+  },
+  "phoneNumber": 722173796,
+  "password": "Start123",
+  "lastName": "Dobosz",
+  "firstName": "Dariusz",
+  "employeeNumber": "ACC113213",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eb6e6f7c4f5a759f1594a"
+  },
+  "currentPackages": "",
+  "undeliveredPackages": [],
+  "deliveredPackages": [],
+  "region": {
+    "name": "Krakow4",
+    "leftTop": {
+      "latitude": 50.052475,
+      "longitude": 19.958185
+    },
+    "leftBottom": {
+      "latitude": 50.005277,
+      "longitude": 19.943071
+    },
+    "rightTop": {
+      "latitude": 50.059529,
+      "longitude": 20.062625
+    },
+    "rightBottom": {
+      "latitude": 50.006601,
+      "longitude": 20.06194
+    }
+  },
+  "startTime": "00:00",
+  "registration": "KRA12312",
+  "vehicle": "Ford Transit",
+  "startPosition": {
+    "latitude": 50.034837,
+    "longitude": 20.005598
+  },
+  "phoneNumber": 755126345,
+  "password": "Start123",
+  "lastName": "Kowalski",
+  "firstName": "Jan",
+  "employeeNumber": "CZT123164",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eb752f7c4f5a759f15954"
+  },
+  "currentPackages": "",
+  "undeliveredPackages": [],
+  "deliveredPackages": [],
+  "region": {
+    "name": "Krakow3",
+    "leftTop": {
+      "latitude": 50.061292,
+      "longitude": 19.813206
+    },
+    "leftBottom": {
+      "latitude": 50.01675,
+      "longitude": 19.785035
+    },
+    "rightTop": {
+      "latitude": 50.067022,
+      "longitude": 19.910775
+    },
+    "rightBottom": {
+      "latitude": 50.011897,
+      "longitude": 19.923143
+    }
+  },
+  "startTime": "00:00",
+  "registration": "ETM2868",
+  "vehicle": "Renault Master",
+  "startPosition": {
+    "latitude": 50.038365,
+    "longitude": 19.850997
+  },
+  "phoneNumber": 517108083,
+  "password": "Start123",
+  "lastName": "Owsiany",
+  "firstName": "Mariusz",
+  "employeeNumber": "DEX12312312",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619eb7aef7c4f5a759f15958"
+  },
+  "currentPackages": "",
+  "undeliveredPackages": [],
+  "deliveredPackages": [],
+  "region": {
+    "name": "Krakow2",
+    "leftTop": {
+      "latitude": 50.118122,
+      "longitude": 19.964369
+    },
+    "leftBottom": {
+      "latitude": 50.061733,
+      "longitude": 19.958872
+    },
+    "rightTop": {
+      "latitude": 50.11416,
+      "longitude": 20.033766
+    },
+    "rightBottom": {
+      "latitude": 50.05997,
+      "longitude": 20.037889
+    }
+  },
+  "startTime": "00:00",
+  "registration": "WSZ5591",
+  "vehicle": "Citroen Jumper",
+  "startPosition": {
+    "latitude": 50.100508,
+    "longitude": 19.987043
+  },
+  "phoneNumber": 883330576,
+  "password": "Start123",
+  "lastName": "Guzowski",
+  "firstName": "Remigiusz",
+  "employeeNumber": "EZV12321231",
+  "__v": 0
+}]
