@@ -91,6 +91,9 @@ export class CourierService {
     const packages = await this.packageService.getPackages();
     const packagesInZone = packages.filter((p) => this.checkIfPointInCoords(zone, p.position));
     const orderedPackages = packagesInZone.sort((a, b) => a.sendDate.getTime() - b.sendDate.getTime());
+    orderedPackages.forEach((p) => {
+      p.status = PackageStatus.assigned
+    });
     const firstPackages = orderedPackages.slice(0, 25);
     const initPackage = firstPackages[0];
     const otherPackages = firstPackages.slice(1, 24);
